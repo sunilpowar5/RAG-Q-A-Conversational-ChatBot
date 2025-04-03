@@ -1,0 +1,16 @@
+pandas
+numpy
+langchain
+langchain-openai
+python-dotenv
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-groq
+langchain-ollama
+langchain-huggingface
+ipykernel
+streamlit
+faiss-cpu
+pypdf
+langchain-chroma
